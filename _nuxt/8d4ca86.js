@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{505:function(t,e,n){"use strict";n.r(e);var r={validate:function(t){var e=t.params;return/^\d+$/.test(e.id)}},c=n(21),component=Object(c.a)(r,(function(){var t=this,e=t.$createElement;return(t._self._c||e)("div",[t._v(t._s(t.$route.params.id))])}),[],!1,null,"20cca280",null);e.default=component.exports}}]);
