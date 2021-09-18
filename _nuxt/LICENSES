@@ -1,3 +1,8 @@
+//! moment.js
+
+//! moment.js locale configuration
+
+
 /**
  * Prism: Lightweight, robust, elegant syntax highlighting
  *
@@ -6,11 +11,6 @@
  * @namespace
  * @public
  */
-
-
-//! moment.js
-
-//! moment.js locale configuration
 
 
 /*!
