@@ -1,13 +1,3 @@
-/**
- * Prism: Lightweight, robust, elegant syntax highlighting
- *
- * @license MIT <https://opensource.org/licenses/MIT>
- * @author Lea Verou <https://lea.verou.me>
- * @namespace
- * @public
- */
-
-
 /*!
   Copyright (c) 2017 Jed Watson.
   Licensed under the MIT License (MIT), see
@@ -60,6 +50,15 @@ and limitations under the License.
   */
 
 /**
+ * @license
+ * Lodash <https://lodash.com/>
+ * Copyright JS Foundation and other contributors <https://js.foundation/>
+ * Released under MIT license <https://lodash.com/license>
+ * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
+
+/**
  * Checks if an event is supported in the current execution environment.
  *
  * NOTE: This will not work correctly for non-generic events such as `change`,
@@ -75,6 +74,21 @@ and limitations under the License.
  */
 
 
+/**
+ * Prism: Lightweight, robust, elegant syntax highlighting
+ *
+ * @license MIT <https://opensource.org/licenses/MIT>
+ * @author Lea Verou <https://lea.verou.me>
+ * @namespace
+ * @public
+ */
+
+
+//! moment.js
+
+//! moment.js locale configuration
+
+
 /*!
   * vue-router v3.5.2
   * (c) 2021 Evan You
@@ -86,8 +100,3 @@ and limitations under the License.
  * (c) 2014-2021 Evan You
  * Released under the MIT License.
  */
-
-
-//! moment.js
-
-//! moment.js locale configuration
